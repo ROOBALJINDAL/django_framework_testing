@@ -1,0 +1,43 @@
+								ANDROID GAME: SHAKER
+
+
+INTRODUCTION:
+
+	SHAKER is an android game which is based on ANDROID SENSORS. 
+	Player has to shake its cellphone as fast as possible to break the exsisting records.
+MODES:
+
+There will be 3 basic modes: 
+
+EASY: 
+* will detect low impact shake
+*Time Limit: 10 sec
+
+MEDIUM:
+*will detect average impact shakes
+*Time limit: 10 sec
+
+HARD:
+*will only detect high impact shakes
+*Time limit: 10 sec
+
+ONE EXTRA MODE WILL BE AVAILABLE:
+
+CHALLENGING MODE:
+*Will check players capability to shake phone for long time
+*will detect average impact shakes
+*Time limit: 1 min
+
+
+HIGH SCORES:
+High Scores will be shared worldwide through internet access and player will get his world RANK 
+through our SERVER which will be based on python (django). Every single player can compete
+worldwide with the facility of GLOBAL HIGH SCORES
+
+ARTIFICIAL INTELLIGENCE:
+Since the high scores will remain same with not much change because the capability of a player will 
+always remain same. So to create interest to break previous records, 
+MORE THE GAME IS PLAYED, FASTER THE PLAYER WILL SCORE. 
+
+Technology used: Android + Python
+Supported Platform: 2.2 android version to Kitkat

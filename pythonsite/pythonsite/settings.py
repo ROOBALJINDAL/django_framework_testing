@@ -25,6 +25,7 @@ DEBUG = True
 TEMPLATE_DEBUG = True
 
 ALLOWED_HOSTS = [
+    "*",
     "10.0.0.13",
     "127.0.0.1",
 ]
@@ -39,7 +40,6 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'serversideapp',
     'shaker',
     'rest_framework',
 )
